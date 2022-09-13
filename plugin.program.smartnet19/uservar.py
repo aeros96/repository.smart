@@ -15,9 +15,9 @@ ART = os.path.join(PATH, 'resources', 'media')
 #########################################################
 ADDONTITLE = '[COLOR darkorange]Smartnet [/COLOR]Matrix Wizard'
 BUILDERNAME = 'Aeros '
-EXCLUDES = [ADDON_ID, 'repository.smartnet9']
+EXCLUDES = [ADDON_ID, 'repository.smart']
 # Text File with build info in it.
-BUILDFILE = 'https://raw.githubusercontent.com/aeros96/repository.smartnet9/master/aeros/smartnetwizard19.txt'
+BUILDFILE = 'https://raw.githubusercontent.com/aeros96/repository.smart/master/aeros/smartnetwizard19.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
@@ -96,9 +96,9 @@ AUTOUPDATE = 'No'
 # Enable Auto Install 'Yes' or 'No'
 AUTOINSTALL = 'No'
 # Addon ID for the repository
-REPOID = 'repository.smartnet9'
+REPOID = 'repository.smart'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML = 'https://raw.githubusercontent.com/aeros96/repository.smartnet9/master/zips/addons.xml'
+REPOADDONXML = 'https://raw.githubusercontent.com/aeros96/repository.smart/master/zips/addons.xml'
 # Url to folder zip is located in
 REPOZIPURL = 'https://'
 #########################################################
