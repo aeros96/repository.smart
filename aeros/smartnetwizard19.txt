@@ -1,7 +1,7 @@
 
 name="SmartNet400 Matrix"
-version="4.60"
-url="https://www.dropbox.com/s/g12rq2dp4owbk1f/smartnet400.zip?dl=1"
+version="4.61"
+url="https://www.dropbox.com/s/d5gs68jgyrlecsn/smartnet400.zip?dl=1"
 minor="http://"
 gui="http://"
 kodi="19"
