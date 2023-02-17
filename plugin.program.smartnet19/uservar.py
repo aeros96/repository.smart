@@ -17,14 +17,14 @@ ADDONTITLE = '[COLOR darkorange]Smartnet [/COLOR]Matrix Wizard'
 BUILDERNAME = 'Aeros '
 EXCLUDES = [ADDON_ID, 'repository.smart']
 # Text File with build info in it.
-BUILDFILE = 'https://raw.githubusercontent.com/aeros96/repository.smart/master/aeros/smartnetwizard19.txt'
+BUILDFILE = 'https://raw.githubusercontent.com/aeros96/repository.smart/main/aeros/smartnetwizard19.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
 # Text File with apk info in it.  Leave as 'http://' to ignore
 APKFILE = 'http://'
 # Text File with Youtube Videos urls.  Leave as 'http://' to ignore
-YOUTUBETITLE = 'Youtube Help'
+YOUTUBETITLE = ''
 YOUTUBEFILE = 'http://'
 # Text File for addon installer.  Leave as 'http://' to ignore
 ADDONFILE = 'http://'
@@ -87,7 +87,7 @@ CONTACTFANART = 'http://_'
 #        Auto Update For Those With No Repo             #
 #########################################################
 # Enable Auto Update 'Yes' or 'No'
-AUTOUPDATE = 'No'
+AUTOUPDATE = 'Yes'
 #########################################################
 
 #########################################################
@@ -98,7 +98,7 @@ AUTOINSTALL = 'No'
 # Addon ID for the repository
 REPOID = 'repository.smart'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML = 'https://raw.githubusercontent.com/aeros96/repository.smart/master/zips/addons.xml'
+REPOADDONXML = 'https://'
 # Url to folder zip is located in
 REPOZIPURL = 'https://'
 #########################################################
