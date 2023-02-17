@@ -1,6 +1,6 @@
-id="plugin.program.smartnet19"
-version="4.0"
-zip="https://aeros96.github.io/repository.smart/aeros/zip/plugin.program.smartnet19-4.0.zip"
+id="plugin.program.smart"
+version="5.1"
+zip="https://aeros96.github.io/repository.smart/aeros/zip/plugin.program.smartnet19-5.1.zip"
 
 name="Smart20 Nexus Xonfluence"
 version="5.00"
