@@ -1,6 +1,6 @@
 
 name="Smart201 Nexus Xonfluence"
-version="5.10"
+version="5.00"
 url="https://www.dropbox.com/s/x0qzrzrhubox3f0/smart20_xonfluence.zip?dl=1"
 minor="http://"
 gui="http://"
