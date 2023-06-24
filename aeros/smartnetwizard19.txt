@@ -1,7 +1,7 @@
 
-name="Smart20 Nexus Xonfluence"
-version="5.00"
-url="https://www.dropbox.com/s/fmkpgy6wzbotjqv/smart20_xonfluence.zip?dl=1"
+name="Smart201 Nexus Xonfluence"
+version="5.10"
+url="https://www.dropbox.com/s/x0qzrzrhubox3f0/smart20_xonfluence.zip?dl=1"
 minor="http://"
 gui="http://"
 kodi="20.0"
@@ -11,6 +11,6 @@ fanart="https://raw.githubusercontent.com/aeros96/repository.smart/master/aeros/
 preview="http://"
 adult="No"
 info="http://"
-description="SMARTNET Kodi20 Xonfluence Updated 01/29/23."
+description="SMARTNET Kodi201 Xonfluence Updated 06/24/23."
 
 
