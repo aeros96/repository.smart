@@ -1,0 +1,17 @@
+<builds>
+
+  <build>
+	<name>Smart Build for 19 - 20</name>
+	<version>1.9</version>
+	<url>https://www.dropbox.com/s/x0qzrzrhubox3f0/smart20_xonfluence.zip?dl=1</url>
+	<icon>https://raw.githubusercontent.com/aeros96/repository.smart/master/aeros/icon.png</icon>
+	<fanart>https://raw.githubusercontent.com/aeros96/repository.smart/master/aeros/fanart.jpg</fanart>
+	<description>Build for 19 and 20 Super Customizable.</description>
+	<preview></preview>
+        <tweak></tweak>
+        <extra></extra>
+       
+  </build>
+
+  
+</builds>
