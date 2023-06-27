@@ -4,7 +4,7 @@ zip="https://aeros96.github.io/repository.smart/aeros/zip/plugin.program.smartne
 
 name="Smart21 Nexus Xonfluence"
 version="5.00"
-url="https://www.dropbox.com/s/x0qzrzrhubox3f0/smart20_xonfluence.zip?dl=1"
+url="https://www.dropbox.com/s/qltpuwv3k4bp15f/smart21_xonfluence.zip?dl=1"
 minor="http://"
 gui="http://"
 kodi="20"
@@ -14,4 +14,4 @@ fanart="https://raw.githubusercontent.com/aeros96/repository.smart/master/aeros/
 preview="http://"
 adult="No"
 info="http://"
-description="SMARTNET Kodi21 Xonfluence Updated 06/25/23."
+description="SMARTNET Kodi21 Xonfluence Updated 06/27/23."
