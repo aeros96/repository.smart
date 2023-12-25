@@ -1,0 +1,67 @@
+13
+|||
+1.9 Update-
+Removed - KodiVerse due to developer stopping support for it
+Added -  Asgard, M.E.T.V., Fights On Demand Stand Alone Addons
+Added - WatchNixToons2 addon
+Added - XFavs addon and added it was a hidden widget in favs tab
+Added - Shazam Search to submenu in movies. This is a Exodus/Oath fork 
+Moved - Some submenu items
+Changed - Color scheme/theme to Blue. You can change to your taste in system settings and skin settings
+
+1.8a Update-
+Did not increase build number just added more Color Themes. Update if you wish
+
+1.8 Update-
+To update goto Dabs19wiz under favorites/submenu/wizard/buildmenu..
+Fixed - Random RD failures.. example, some boot-ups RD would not respond
+Added - Colours ( interface menu ) and tweaked Silvo themes
+Added - KodiVerse and Shazam to favorites sub-menu
+Added - MEtv section to 1clicks.. Older Content
+Added -  WIZARD UPGRADES - Speed test, local backup and restore of builds
+Added - Replay Zone to sports sub-menu
+Removed - Add That Source.. Addon is closed
+
+1.7 Update-
+Removed Oath
+Removed Kodiverse from Favorites
+Added Kodiverse to Submenu in Tv and Movies
+Added Horoscope addon in Program addons
+Added Otaku and updated Kaito
+Added Shazam Fast 1 click addon and replacement for Oath
+Added BACKGROUND button to submenu to make it easy to swap BGs
+Added New button for RD and other services Authorization
+Added RealDebrid Mod to Submenu
+Added a Background rotation of 8 BGs
+Added New wizard with better backup and restore features
+
+1.6 Update-
+Added - FEN back to addons
+Added - FEN to movie and Tv Show widgets
+Added - FEN trakt and RD auth to Favorites
+Changed  - Few Display settings to FEN
+
+1.5 Update-
+Removed dead repos
+Added api keys to OATH
+
+1.4 Update - 
+Added - LBRY addon so you can watch my videos uploaded to ODYSEE ( In Fav sub-menu ) 
+Changed - Movie and TV Widget to Oath so stop the "Updating Metadate" msg 
+
+1.3.1 Update- *Small edit to Youtube keys and removed 1 submenu item in 1 click.. Kept same ver number*
+REMOVED Cocodab, dabscope, Q Continuum, goto, xstream due to those addons being shut down
+ADDED - KodiVerse and all the addons inside it ( 12+ addons )
+ADDED - New RD authorize for shadown addons and CREW addon
+ADDED - Changed background which I will each do update, if you want a different one watch video I made to change to 100+ on my server
+ADDED - Sub-menus Torque, Patriot, Magic Dragon
+ADDED - New widgets paths and Kodiverse widget to favorites
+ADDED - Search button in sub.. One for Oath and One using Shadow scrapers ( KV ) 
+
+
+1.2 Update- If you want newest build go to Dabs19wiz and click BUILDS
+UPDATED Dabs19Wiz. Now clears packages on boot. This can be changed by end user
+Added Goto, Xstream, Loop addons
+Added some Repos
+Removed Fen from installed addons. The repo is still there but removed because of reported bugs it keeps having
+Added color to On Screen Display to help you see buttons better

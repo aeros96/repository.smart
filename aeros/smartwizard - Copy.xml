@@ -1,0 +1,64 @@
+<builds>
+<build>
+<name>Chameleon Build for 19,20,21</name>
+<version>2.1</version>
+<url>http://dabutcher.org/19/chameleon19.zip</url>
+<icon>http://dabutcher.org/19/icon.png</icon>
+<fanart>http://dabutcher.org/19/fan.jpg</fanart>
+<description>
+Build for 19, 20 and 21 Super Customizable and NOT bloated with addons. I do include all the popular repos and 70+ backgrounds
+</description>
+<preview>
+plugin://plugin.video.youtube/play/?video_id=jVvbEU184RY
+</preview>
+<tweak>
+plugin://plugin.video.youtube/play/?video_id=M1je7tB31Ng
+</tweak>
+<extra/>
+</build>
+<build>
+<name>Dabs Shield Build ( ANDROID ) </name>
+<version>1.3</version>
+<url>http://dabutcher.org/19/dabshield.zip</url>
+<icon>http://dabutcher.org/19/dsfan.png</icon>
+<fanart>http://dabutcher.org/19/Nvidia-SHIELD-TV-box.jpg</fanart>
+<description>
+Dabs Shield Build is based on the Fentastic skin. It has many netflix style widgets and works best with FEN. The build also has a working EPG ( TV GUIDE ) with LIVE TV via Mad Titan Addon. This build is for HIGH END DEVICES WITH GOOD INTERNET connection. Give it 1 to 2 mins to load widgets and epg. **THIS IS A TEST BUILD** May Need To Reboot Kodi again to get LIVE TV to populate
+</description>
+<preview/>
+<tweak/>
+<extra/>
+</build>
+<build>
+<name>Otto Lite</name>
+<version>1.3</version>
+<url>https://4k-screensaver.com/builds/otto-lite.zip</url>
+<icon>https://4k-screensaver.com/builds/otto-lite.jpg</icon>
+<fanart>https://4k-screensaver.com/builds/lite-icon.png</fanart>
+<description>Otto Lite - Bloat free, fast and ultra reliable.</description>
+<preview/>
+<tweak/>
+<extra/>
+</build>
+
+<build>
+<name>Smart23 Nexus Xonfluence</name>
+<version>5.0</version>
+<url>https://www.dropbox.com/scl/fi/ensell36fm3p8km7shhbp/smart23_xonfluence.zip?rlkey=dz06fap3lyzyc135fnzgstoez&dl=1</url>
+<icon>https://raw.githubusercontent.com/aeros96/repository.smart/master/aeros/icon.png</icon>
+<fanart>https://raw.githubusercontent.com/aeros96/repository.smart/master/aeros/fanart.jpg</fanart>
+<description>Smart23 Kodi Xonfluence Updated 11/29/23</description>
+<extra/>
+</build>
+
+<build>
+<name>SmartNexus Xonfluence</name>
+<version>6.0</version>
+<url>https://www.dropbox.com/scl/fi/on6foh2hzkjntsihog8x9/smartnexus6.zip?rlkey=6mgbc1lxe7wl2bgeduund1u7f&dl=1</url>
+<icon>https://raw.githubusercontent.com/aeros96/repository.smart/master/aeros/icon.png</icon>
+<fanart>https://raw.githubusercontent.com/aeros96/repository.smart/master/aeros/fanart.jpg</fanart>
+<description>SmartNexus Kodi Dstealth Updated 12/19/23.</description>
+<extra/>
+</build>
+
+</builds>
