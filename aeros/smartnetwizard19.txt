@@ -14,4 +14,4 @@ fanart="https://raw.githubusercontent.com/aeros96/repository.smart/master/aeros/
 preview="http://"
 adult="No"
 info="http://"
-description="Fentastic 101 Kodi Build Updated 25/02/24."
+description="Fentastic 101 Kodi Build Updated 26/02/24."
