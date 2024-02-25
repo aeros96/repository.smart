@@ -4,7 +4,7 @@ zip="https://aeros96.github.io/repository.smart/aeros/zip/plugin.program.fentast
 
 name="Fentastic 101"
 version="6.00"
-url="https://www.dropbox.com/scl/fi/0zquixd6cw6g5ajaykd8i/Fentastic_Final.zip?rlkey=j6qou4hisgnzd28hyf36qem63&dl=1"
+url="https://www.dropbox.com/scl/fi/y97fcscjsi9bs98r3zl0y/Fentastic_Final.zip?rlkey=son1ucmlw44z5sptru84xj4th&dl=1"
 minor="http://"
 gui="http://"
 kodi="20"
