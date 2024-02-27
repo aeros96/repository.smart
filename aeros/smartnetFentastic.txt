@@ -1,8 +1,8 @@
-id="plugin.program.fentastic"
+id="plugin.program.smart"
 version="6.0"
-zip="https://aeros96.github.io/repository.smart/aeros/zip/plugin.program.fentastic-6.0.zip"
+zip="https://aeros96.github.io/repository.smart/aeros/zip/plugin.program.smart-6.0.zip"
 
-name="Fentastic 101"
+name="Fentastic TMDB 202"
 version="6.00"
 url="https://www.dropbox.com/scl/fi/y62gopmqlb5lfc64lvhlo/Fentastic_tmdb.zip?rlkey=5sk3ylnjtcrlenppc91mleism&dl=1"
 minor="http://"
@@ -14,4 +14,4 @@ fanart="https://raw.githubusercontent.com/aeros96/repository.smart/master/aeros/
 preview="http://"
 adult="No"
 info="http://"
-description="Fentastic 101 Updated 02/26/24."
+description="Fentastic 201 TMDB Updated 02/27/24."

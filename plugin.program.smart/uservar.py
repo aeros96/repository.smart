@@ -17,7 +17,7 @@ ADDONTITLE = '[COLOR darkorange]Smart [/COLOR]Wizard'
 BUILDERNAME = 'Aeros '
 EXCLUDES = [ADDON_ID, 'repository.smart']
 # Text File with build info in it.
-BUILDFILE = 'https://raw.githubusercontent.com/aeros96/repository.smart/main/aeros/smartnetFentastic3.txt'
+BUILDFILE = 'https://raw.githubusercontent.com/aeros96/repository.smart/main/aeros/smartnetFentastic.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
