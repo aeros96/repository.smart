@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.smartnet19" name="[COLOR darkorange]SmartNet [/COLOR]Matrix Wizard" version="4.0" provider-name="Aeros">
+<addon id="plugin.program.smart" name="[COLOR darkorange]Smart [/COLOR] Wizard" version="5.0" provider-name="Aeros">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
@@ -15,8 +15,8 @@
     <extension point="xbmc.service" library="startup.py" start="startup" />
 
     <extension point="xbmc.addon.metadata">
-        <summary lang="en">[COLOR darkorange]Smartnet[/COLOR]Wizard</summary>
-        <description lang="en">[COLOR darkorange]Smartnet[/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
+        <summary lang="en">[COLOR darkorange]Smart[/COLOR]Wizard</summary>
+        <description lang="en">[COLOR darkorange]Smart[/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
         <platform>all</platform>
         <reuselanguageinvoker>false</reuselanguageinvoker>
         <source>https://www.github.com/a4k-openproject/plugin.program.openwizard/</source>
