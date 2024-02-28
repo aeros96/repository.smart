@@ -17,7 +17,7 @@ ADDONTITLE = '[COLOR khaki][B]Fentastic[/B][/COLOR][COLOR snow]Wizard[/COLOR]'
 BUILDERNAME = 'FentasticWizard'
 EXCLUDES = [ADDON_ID, 'repository.gsource']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'https://raw.githubusercontent.com/aeros96/repository.smart/main/aeros/builds.txt'
+BUILDFILE = 'https://raw.githubusercontent.com/aeros96/repository.smart/main/aeros/build.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
