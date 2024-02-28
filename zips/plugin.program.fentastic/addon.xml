@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<addons>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.program.fentastic" name="[COLOR khaki][B]Fentastic[/B][/COLOR][COLOR snow]Wizard[/COLOR]" version="4.0" provider-name="Group Effort">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
@@ -8,13 +7,13 @@
         <import addon="script.kodi.android.update" optional="true" version="1.1.7" />
         <import addon="script.speedtester" optional="true" version="1.1.3" />
     </requires>
-
+    
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>executable</provides>
     </extension>
-
+    
     <extension point="xbmc.service" library="startup.py" start="startup" />
-
+    
     <extension point="xbmc.addon.metadata">
         <summary lang="en">Maintenance Wizard for Kodi 19/20/21</summary>
         <description lang="en">[COLOR khaki]Fentastic[/COLOR][COLOR snow]Wizard[/COLOR] offers many maintenance features, selective add-on data saving, and automated build installs. Perfect for keeping your Kodi running and creating your own builds. You can also customize this add-on to make it your own.[CR]Many thanks to the developers drinfernoo and slamious for bringing us the Leia and Matrix versions of this add-on.</description>
@@ -75,7 +74,7 @@
 1.3.2
  - Fix build restore
 1.3.1
- - Fix "Keep Login Info" menu
+ - Fix "Keep Login Info" menu        
 1.3.0
  - Fix formatting of saved restore times
  - Fix local build zip being deleted on restore
@@ -102,7 +101,7 @@
 1.2.7
  - Add TheMovieDb Helper
 1.2.6
- - Fix Seren PM OAuth
+ - Fix Seren PM OAuth    
 1.2.5
  - Fix typo in debridit.py
 1.2.4
@@ -151,84 +150,3 @@
         </assets>
     </extension>
 </addon>
-
-<addon id="plugin.program.smart" name="[COLOR darkorange]Smart [/COLOR] Wizard" version="6.0" provider-name="Aeros">
-    <requires>
-        <import addon="xbmc.python" version="3.0.0" />
-        <import addon="script.module.requests" />
-        <import addon="script.module.six" />
-        <import addon="script.kodi.android.update" optional="true" version="1.3.2" />
-    </requires>
-
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>executable</provides>
-    </extension>
-
-    <extension point="xbmc.service" library="startup.py" start="startup" />
-
-    <extension point="xbmc.addon.metadata">
-        <summary lang="en">[COLOR darkorange]Smart[/COLOR]Wizard</summary>
-        <description lang="en">[COLOR darkorange]Smart[/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
-        <platform>all</platform>
-        <reuselanguageinvoker>false</reuselanguageinvoker>
-        <source>https://www.github.com/a4k-openproject/plugin.program.openwizard/</source>
-        <news>
-
-        </news>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.png</fanart>
-        </assets>
-    </extension>
-</addon>
-
-<addon id="plugin.program.smart2" name="[COLOR darkorange]Smart2 [/COLOR] Wizard" version="5.0" provider-name="Aeros">
-    <requires>
-        <import addon="xbmc.python" version="3.0.0" />
-        <import addon="script.module.requests" />
-        <import addon="script.module.six" />
-        <import addon="script.kodi.android.update" optional="true" version="1.3.2" />
-    </requires>
-
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>executable</provides>
-    </extension>
-
-    <extension point="xbmc.service" library="startup.py" start="startup" />
-
-    <extension point="xbmc.addon.metadata">
-        <summary lang="en">[COLOR darkorange]Smart2[/COLOR]Wizard</summary>
-        <description lang="en">[COLOR darkorange]Smart2[/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
-        <platform>all</platform>
-        <reuselanguageinvoker>false</reuselanguageinvoker>
-        <source>https://www.github.com/a4k-openproject/plugin.program.openwizard/</source>
-        <news>
-
-        </news>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.png</fanart>
-        </assets>
-    </extension>
-</addon>
-
-<addon id="repository.smartnet9" name="Smartnet9 Repo" version="1.1" provider-name="Aeros">
-    <extension point="xbmc.addon.repository" name="Smartnet9 Repo">
-        <dir>
-            <info compressed="false">https://raw.githubusercontent.com/aeros96/repository.smart/master/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/aeros96/repository.smart/master/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/aeros96/repository.smart/master/zips/</datadir>
-        </dir>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>Smartnet9 Repo</summary>
-        <description>SmartNet Test Repo</description>
-        <disclaimer></disclaimer>
-        <platform>all</platform>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
-</addon>
-</addons>
