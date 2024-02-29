@@ -4,7 +4,7 @@ zip="https://aeros96.github.io/repository.smart/aeros/zip/plugin.program.fentast
 
 name="Fentastic TMDB 101"
 version="5.00"
-url="https://www.dropbox.com/scl/fi/u1ek0w8spyqu4zip20v8e/Fentastic_Final.zip?rlkey=c5a1d99wk99r83ad9jpgtxx8u&dl=0"	 
+url="https://www.dropbox.com/scl/fi/sq2eeu5r2uri4eup2aj0o/Fentastic_Final.zip?rlkey=0yrlp5hlvcm2hg7guqal3msu8&dl=1"	 
 minor="http://"
 gui="http://"
 kodi="20"
