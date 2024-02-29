@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
+<addon id="repository.jmooremcc" name="jmooremcc Addons" version="1.1.0" provider-name="jmooremcc">
+	<extension point="xbmc.addon.repository" name="jmooremcc Addons">
+		<dir>
+			<info compressed="false">https://raw.github.com/jmooremcc/Repository.jmooremcc/master/addons.xml</info>
+			<checksum>https://raw.github.com/jmooremcc/Repository.jmooremcc/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.github.com/jmooremcc/Repository.jmooremcc/master</datadir>
+		</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>jmooremcc XBMC Addons</summary>
+		<description>This repository contains kodi addons created by jmooremcc.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
 <addon id="plugin.program.fentastic" name="[COLOR khaki][B]Fentastic[/B][/COLOR][COLOR snow]Wizard[/COLOR]" version="4.0" provider-name="Group Effort">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
@@ -152,6 +167,86 @@
     </extension>
 </addon>
 
+<addon id="repository.kodinerds" name="Kodinerds Addon Repo" version="7.0.1.4" provider-name="Kodinerds">
+    <requires>
+        <import addon="xbmc.addon" version="12.0.0"/>
+    </requires>
+    <extension point="xbmc.addon.repository" name="Kodinerds Addon Repo">
+        <dir>
+            <info compressed="true">https://repo.kodinerds.net/addons/addons.xml</info>
+            <checksum>https://repo.kodinerds.net/addons/addons.xml.md5</checksum>
+            <datadir zip="true">https://repo.kodinerds.net/addons</datadir>
+            <hashes>false</hashes>
+        </dir>
+        <dir minversion="20.9.9" maxversion="21.9.0">
+            <info compressed="true">https://repo.kodinerds.net/addons/omega/addons.xml</info>
+            <checksum>https://repo.kodinerds.net/addons/omega/addons.xml.md5</checksum>
+            <datadir zip="true">https://repo.kodinerds.net/addons/omega/zip/</datadir>
+            <hashes>false</hashes>
+        </dir>
+        <dir minversion="20.0.0" maxversion="21.9.0">
+            <info compressed="true">https://repo.kodinerds.net/addons/nexus/addons.xml</info>
+            <checksum>https://repo.kodinerds.net/addons/nexus/addons.xml.md5</checksum>
+            <datadir zip="true">https://repo.kodinerds.net/addons/nexus/zip/</datadir>
+            <hashes>false</hashes>
+        </dir>
+        <dir minversion="19.0.0" maxversion="21.9.0">
+            <info compressed="true">https://repo.kodinerds.net/addons/matrix/addons.xml</info>
+            <checksum>https://repo.kodinerds.net/addons/matrix/addons.xml.md5</checksum>
+            <datadir zip="true">https://repo.kodinerds.net/addons/matrix/zip/</datadir>
+            <hashes>false</hashes>
+        </dir>
+        <dir minversion="18.0.0" maxversion="18.9.0">
+            <info compressed="true">https://repo.kodinerds.net/addons/leia/addons.xml</info>
+            <checksum>https://repo.kodinerds.net/addons/leia/addons.xml.md5</checksum>
+            <datadir zip="true">https://repo.kodinerds.net/addons/leia/zip/</datadir>
+            <hashes>false</hashes>
+        </dir>
+        <dir minversion="17.0.0" maxversion="18.9.0">
+            <info compressed="true">https://repo.kodinerds.net/addons/krypton/addons.xml</info>
+            <checksum>https://repo.kodinerds.net/addons/krypton/addons.xml.md5</checksum>
+            <datadir zip="true">https://repo.kodinerds.net/addons/krypton/zip/</datadir>
+            <hashes>false</hashes>
+        </dir>
+        <dir minversion="16.0.0" maxversion="18.9.0">
+            <info compressed="true">https://repo.kodinerds.net/addons/jarvis/addons.xml</info>
+            <checksum>https://repo.kodinerds.net/addons/jarvis/addons.xml.md5</checksum>
+            <datadir zip="true">https://repo.kodinerds.net/addons/jarvis/zip/</datadir>
+            <hashes>false</hashes>
+        </dir>
+        <dir minversion="15.0.0" maxversion="18.9.0">
+            <info compressed="true">https://repo.kodinerds.net/addons/isengard/addons.xml</info>
+            <checksum>https://repo.kodinerds.net/addons/isengard/addons.xml.md5</checksum>
+            <datadir zip="true">https://repo.kodinerds.net/addons/isengard/zip/</datadir>
+            <hashes>false</hashes>
+        </dir>
+        <dir minversion="14.0.0" maxversion="18.9.0">
+            <info compressed="true">https://repo.kodinerds.net/addons/helix/addons.xml</info>
+            <checksum>https://repo.kodinerds.net/addons/helix/addons.xml.md5</checksum>
+            <datadir zip="true">https://repo.kodinerds.net/addons/helix/zip/</datadir>
+            <hashes>false</hashes>
+        </dir>
+        <dir minversion="13.0.0" maxversion="18.9.0">
+            <info compressed="true">https://repo.kodinerds.net/addons/gotham/addons.xml</info>
+            <checksum>https://repo.kodinerds.net/addons/gotham/addons.xml.md5</checksum>
+            <datadir zip="true">https://repo.kodinerds.net/addons/gotham/zip/</datadir>
+            <hashes>false</hashes>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Addon repository of the Kodinerds Community</summary>
+        <description lang="en">The 'Nerdsrepo' is the Repository of the german Kodi Community 'Kodinerds' (www.kodinerds.net). Most of the hosted Addons here are active developed and supported by the members of the Community. Nerdsrepo is an unofficial Repository of the Kodi Media Center Software</description>
+        <summary lang="de">Addon Repository der Kodinerds Community</summary>
+        <description lang="de">Das 'Nerdsrepo' ist das Addon Repository der deutschen Kodi-Community 'Kodinerds' (www.kodinerds.net). Die meisten der hier im Nerdsrepo gehosteten Addons werden von den Mitgliedern der Community aktiv entwickelt und unterstützt. Das Nerdsrepo ist ein unoffizielles Repository der Kodi Media Center Software.</description>
+        <disclaimer/>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="repository.smartnet9" name="Smartnet9 Repo" version="1.1" provider-name="Aeros">
     <extension point="xbmc.addon.repository" name="Smartnet9 Repo">
         <dir>
@@ -170,5 +265,82 @@
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
+</addon>
+
+<addon id="resource.images.skinbackgrounds.xonfluence" name="Skin Backgrounds - Xonfluence" version="0.0.1" provider-name="Helly">
+	<extension point="kodi.resource.images" compile="false" type="skinbackgrounds" />
+	<requires>
+		<import addon="kodi.resource" version="1.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Skin Backgrounds Pack - Xonfluence Design</summary>
+		<description lang="en">Skin Backgrounds Pack - Xonfluence Design</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="resource.images.skinicons.wide" name="Skin Icons - Wide" version="420.1.0.5" provider-name="marcelveldt, cartman.dos">
+	<extension point="kodi.resource.images" compile="false" type="skinicons" />
+	<requires>
+		<import addon="kodi.resource" version="1.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Skin Icons Pack - Wide</summary>
+		<description lang="en">Skin Icons Pack - Wide</description>
+		<platform>all</platform>
+		<license>GPL v3.0</license>
+		<forum>https://forum.kodi.tv/showthread.php?tid=334820</forum>
+		<website></website>
+		<source>https://github.com/cartmandos/resource.images.skinicons.wide/</source>
+	</extension>
+</addon>
+
+<addon
+  id="skin.xonfluence"
+  version="4.0.10"
+  name="Xonfluence"
+  provider-name="Helly, Crybaby">
+  <requires>
+    <import addon="xbmc.gui" version="5.15.0"/>
+	  <import addon="script.favourites" version="7.1.1"/>
+	  <import addon="service.library.data.provider" version="0.3.2"/>
+  </requires>
+  <extension
+    point="xbmc.gui.skin"
+    debugging="false"
+    effectslowdown="1.0">
+    <res width="1920" height="1080" aspect="16:9" default="true" folder="xml" />
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">eXtended MOD of Confluence skin originally by Jezz_X and CCM by Mudislander.</summary>
+    <summary lang="en_US">eXtended MOD of Confluence skin originally by Jezz_X and CCM by Mudislander.</summary>
+    <summary lang="nl">Uitgebreide MOD van Confluence skin origineel door Jezz_X en CCM door Mudislander.</summary>
+    <description lang="en">Xonfluence is a MOD of Confluence to enable a greater degree of user customisation to the default skin (based by Mudislander's CCM).</description>
+    <description lang="en_US">Xonfluence is a MOD of Confluence to enable a greater degree of user customisation to the default skin (based by Mudislander's CCM).</description>
+    <description lang="nl">Xonfluence is een MOD van Confluence om een grotere aanpassingsmogelijkheid te geven ten opzichten van de standaard skin (gebaseerd op Mudislander's CCM).</description>
+    <disclaimer lang="en">You break it - You get to keep the pieces</disclaimer>
+    <disclaimer lang="en_US">You break it - You get to keep the pieces</disclaimer>
+    <disclaimer lang="nl">Wie zijn billen brandt - moet op de blaren zitten</disclaimer>
+    <platform>all</platform>
+	  <license>GNU General Public License version 2</license>
+	  <forum>https://forum.kodi.tv/showthread.php?tid=315391</forum>
+	  <website></website>
+	  <email></email>
+	  <source>https://github.com/Helly1206/skin.xonfluence</source>
+    <assets>
+      <icon>resources/icon.png</icon>
+      <fanart>resources/fanart.jpg</fanart>
+	    <screenshot>resources/screenshot-01.jpg</screenshot>
+	    <screenshot>resources/screenshot-02.jpg</screenshot>
+	    <screenshot>resources/screenshot-03.jpg</screenshot>
+	    <screenshot>resources/screenshot-04.jpg</screenshot>
+	    <screenshot>resources/screenshot-05.jpg</screenshot>
+	    <screenshot>resources/screenshot-06.jpg</screenshot>
+	    <screenshot>resources/screenshot-07.jpg</screenshot>
+	    <screenshot>resources/screenshot-08.jpg</screenshot>
+	    <screenshot>resources/screenshot-09.jpg</screenshot>
+    </assets>
+    <news>See changelog for latest changes</news>
+  </extension>
 </addon>
 </addons>
