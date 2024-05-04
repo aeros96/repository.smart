@@ -4,7 +4,7 @@ zip="https://aeros96.github.io/repository.smart/aeros/zip/plugin.program.fentast
 
 name="Fentastic OMEGA 21"
 version="6.00"
-url="https://www.dropbox.com/scl/fi/utn02vb7c7q4be7i4a3ks/Fentastic_omega21.zip?rlkey=ws0443oohj2twqsszlmyoxp3j&dl=1"
+url="https://www.dropbox.com/scl/fi/jijev3zxartu0dtfdxot2/Fentastic_omega21_Final.zip?rlkey=g7671br369wt21mr5iob1q2wo&st=f6ut62f1&dl=1"
 minor="http://"
 gui="http://"
 kodi="21"
@@ -14,6 +14,6 @@ fanart="https://raw.githubusercontent.com/aeros96/repository.smart/master/aeros/
 preview="http://"
 adult="No"
 info="http://"
-description="Fentastic 301 OMEGA 21 04/07/24."
+description="Fentastic 301 OMEGA 21 05/04/24."
 
 
