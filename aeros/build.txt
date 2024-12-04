@@ -16,4 +16,19 @@ adult="No"
 info="http://"
 description="Fentastic 301 OMEGA 21 05/04/24."
 
+name="Fentastic OMEGA Algerie"
+version="6.00"
+url="https://www.dropbox.com/scl/fi/97i9p36j5lfrmhrtc51gc/Fantastic_omega_Algerie.zip?rlkey=nehxue1wc2zgvw4e0kgy9fa7j&st=8ongd3b1&dl=1"
+minor="http://"
+gui="http://"
+kodi="21"
+theme="http://"
+icon="https://raw.githubusercontent.com/aeros96/repository.smart/master/aeros/icon.png"
+fanart="https://raw.githubusercontent.com/aeros96/repository.smart/master/aeros/fanart.jpg"
+preview="http://"
+adult="No"
+info="http://"
+description="Fentastic OMEGA Algerie 12/04/24."
+
+
 
