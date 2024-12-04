@@ -18,7 +18,7 @@ description="Fentastic 301 OMEGA 21 05/04/24."
 
 name="Fentastic OMEGA Algerie"
 version="6.00"
-url="https://www.dropbox.com/scl/fi/97i9p36j5lfrmhrtc51gc/Fantastic_omega_Algerie.zip?rlkey=nehxue1wc2zgvw4e0kgy9fa7j&st=8ongd3b1&dl=1"
+url="https://www.dropbox.com/scl/fi/qahovwn4sx3g10yjimnz7/Fantastic_omega_Algerie.zip?rlkey=5gc5503jbhf48vmk5r6i402oy&st=kov86csv&dl=1"
 minor="http://"
 gui="http://"
 kodi="21"
