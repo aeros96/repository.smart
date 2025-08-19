@@ -4,7 +4,7 @@ zip="https://aeros96.github.io/repository.smart/aeros/zip/plugin.program.fentast
 
 name="Fentastic FR OMEGA 21"
 version="6.00"
-url="https://www.dropbox.com/scl/fi/0j0eipd00rjdvmq4jz9dm/Fentastic_FR.zip?rlkey=bbikv998kojmomyz62m8uunpk&st=axfmn44c&dl=1"
+url="https://www.dropbox.com/scl/fi/s707rg2vodln6c5q9h0h0/Fentastic_FR.zip?rlkey=su4y7ohbx2g5ybx8ba1jedkaz&st=fqcbhbya&dl=1"
 minor="http://"
 gui="http://"
 kodi="21"
