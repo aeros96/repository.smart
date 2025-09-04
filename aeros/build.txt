@@ -3,9 +3,9 @@ version="4.0"
 zip="https://aeros96.github.io/repository.smart/aeros/zip/plugin.program.fentastic-4.0.zip"
 
 
-name="NIMBUS FR OMEGA 21"
+name="NIMBUS2 FR OMEGA 21"
 version="6.00"
-url="https://www.dropbox.com/scl/fi/2nwqxbdga2xbpsbcsonep/NIMBUS_FR.zip?rlkey=m5c3c9j6wq6sh5lxawmtsj3r1&st=2xtg7mbj&dl=1"
+url="https://www.dropbox.com/scl/fi/29ptyv3zmledilh8f9bao/NIMBUS2_FR.zip?rlkey=0afpznb7b93it2qe0dr7pyqgj&st=r6gm6jxx&dl=1"
 minor="http://"
 gui="http://"
 kodi="21"
@@ -15,7 +15,7 @@ fanart="https://raw.githubusercontent.com/aeros96/repository.smart/master/aeros/
 preview="http://"
 adult="No"
 info="http://"
-description="NIMBUS FR OMEGA 21 08/19/25."
+description="NIMBUS2 FR OMEGA 21 09/05/25."
 
 
 
