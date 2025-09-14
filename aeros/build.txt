@@ -5,7 +5,7 @@ zip="https://aeros96.github.io/repository.smart/aeros/zip/plugin.program.fentast
 
 name="NIMBUS3 FR OMEGA 21"
 version="6.00"
-url="https://www.dropbox.com/scl/fi/w44q6bqipeg8cl0a9dyl7/NIMBUS3_FR.zip?rlkey=vajkpd3bhn9qom1ur83fbafx7&st=b6ned31a&dl=1"
+url="https://www.dropbox.com/scl/fi/bjrf7o51feayjy3narpxh/NIMBUS3_FR.zip?rlkey=uae2rkxl7lcnvc335x4rntdsl&st=fcrcqvze&dl=1"
 minor="http://"
 gui="http://"
 kodi="21"
@@ -15,7 +15,7 @@ fanart="https://raw.githubusercontent.com/aeros96/repository.smart/master/aeros/
 preview="http://"
 adult="No"
 info="http://"
-description="NIMBUS3 FR OMEGA 21 09/05/25."
+description="NIMBUS3 FR OMEGA 21 09/14/25."
 
 
 
