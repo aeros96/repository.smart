@@ -20,7 +20,7 @@ description="Fentastic_FINAL_09 FR OMEGA 21 09/23/25."
 
 name="French Fentastic_FINAL_10"
 version="6.00"
-url="https://www.dropbox.com/scl/fi/dyfiv08l3lnd4ilfsfn8l/Fentastic_FINAL_09.zip?rlkey=6wh0tbd4su0g3lefjgsusjnu5&st=oh4kq10i&dl=1"
+url="https://www.dropbox.com/scl/fi/mwes14tr3npd8o9v602ij/Fentastic_FINAL_09-FR.zip?rlkey=7gc0qwbbfgy4pff6slspzu23l&st=8d6q3soc&dl=1"
 minor="http://"
 gui="http://"
 kodi="21"
