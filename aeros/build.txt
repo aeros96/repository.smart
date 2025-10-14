@@ -18,7 +18,7 @@ info="http://"
 description="Fentastic_FINAL_09 FR OMEGA 21 09/23/25."
 
 
-name="French Fentastic_FINAL_10"
+name="French Fentastic_FINAL_10 NEW"
 version="6.00"
 url="https://www.dropbox.com/scl/fi/ollpy3ge30s6kswasz9ep/Fentastic-clean_FR-Final.zip?rlkey=v7oyzqqrpypb2z1budhlfgukg&st=fgjfqo24&dl=1"
 minor="http://"
@@ -30,7 +30,7 @@ fanart="https://raw.githubusercontent.com/aeros96/repository.smart/master/aeros/
 preview="http://"
 adult="No"
 info="http://"
-description="French Fentastic_FINAL_10 FR"
+description="French Fentastic_FINAL_10 FR NEW"
 
 
 
