@@ -3,9 +3,9 @@ version="4.0"
 zip="https://aeros96.github.io/repository.smart/aeros/zip/plugin.program.fentastic-4.0.zip"
 
 
-name="Fentastic_FINAL_09 FR OMEGA 21"
+name="vStream 10-21"
 version="6.00"
-url="https://www.dropbox.com/scl/fi/dyfiv08l3lnd4ilfsfn8l/Fentastic_FINAL_09.zip?rlkey=6wh0tbd4su0g3lefjgsusjnu5&st=oh4kq10i&dl=1"
+url="https://www.dropbox.com/scl/fi/xc8cqgh630qixjkron8te/vstrean_001.zip?rlkey=i697hp1k2dd68gfzgp976mwph&st=ss88a6rr&dl=1"
 minor="http://"
 gui="http://"
 kodi="21"
@@ -15,10 +15,10 @@ fanart="https://raw.githubusercontent.com/aeros96/repository.smart/master/aeros/
 preview="http://"
 adult="No"
 info="http://"
-description="Fentastic_FINAL_09 FR OMEGA 21 09/23/25."
+description="vStream Fentastic 10/21"
 
 
-name="French Fentastic_FINAL_10 NEW"
+name="French Fentastic_FINAL_10"
 version="6.00"
 url="https://www.dropbox.com/scl/fi/ollpy3ge30s6kswasz9ep/Fentastic-clean_FR-Final.zip?rlkey=v7oyzqqrpypb2z1budhlfgukg&st=fgjfqo24&dl=1"
 minor="http://"
@@ -30,7 +30,7 @@ fanart="https://raw.githubusercontent.com/aeros96/repository.smart/master/aeros/
 preview="http://"
 adult="No"
 info="http://"
-description="French Fentastic_FINAL_10 FR NEW"
+description="French Fentastic_FINAL_10 FR"
 
 
 
