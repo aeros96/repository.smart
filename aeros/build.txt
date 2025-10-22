@@ -5,7 +5,7 @@ zip="https://aeros96.github.io/repository.smart/aeros/zip/plugin.program.fentast
 
 name="vStream 10-21"
 version="6.00"
-url="https://www.dropbox.com/scl/fi/xc8cqgh630qixjkron8te/vstrean_001.zip?rlkey=i697hp1k2dd68gfzgp976mwph&st=ss88a6rr&dl=1"
+url="https://www.dropbox.com/scl/fi/u6niefndnrd20d5ge53dw/vstream_002.zip?rlkey=4urethnh07myq2sbugytby6qa&st=3xjhxpee&dl=1"
 minor="http://"
 gui="http://"
 kodi="21"
