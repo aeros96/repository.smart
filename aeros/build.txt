@@ -5,7 +5,7 @@ zip="https://aeros96.github.io/repository.smart/aeros/zip/plugin.program.fentast
 
 name="vStream 02 10-26"
 version="6.00"
-url="https://www.dropbox.com/scl/fi/u6niefndnrd20d5ge53dw/vstream_002.zip?rlkey=4urethnh07myq2sbugytby6qa&st=n0jekygw&dl=1
+url="https://www.dropbox.com/scl/fi/u6niefndnrd20d5ge53dw/vstream_002.zip?rlkey=4urethnh07myq2sbugytby6qa&st=n0jekygw&dl=1"
 minor="http://"
 gui="http://"
 kodi="21"
@@ -17,20 +17,6 @@ adult="No"
 info="http://"
 description="vStream 02 Fentastic 10/26"
 
-
-name="French Fentastic_FINAL_10"
-version="6.00"
-url="https://www.dropbox.com/scl/fi/ollpy3ge30s6kswasz9ep/Fentastic-clean_FR-Final.zip?rlkey=v7oyzqqrpypb2z1budhlfgukg&st=fgjfqo24&dl=1"
-minor="http://"
-gui="http://"
-kodi="21"
-theme="http://"
-icon="https://raw.githubusercontent.com/aeros96/repository.smart/master/aeros/icon.png"
-fanart="https://raw.githubusercontent.com/aeros96/repository.smart/master/aeros/fanart.jpg"
-preview="http://"
-adult="No"
-info="http://"
-description="French Fentastic_FINAL_10 FR"
 
 
 
