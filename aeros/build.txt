@@ -3,9 +3,9 @@ version="4.0"
 zip="https://aeros96.github.io/repository.smart/aeros/zip/plugin.program.fentastic-4.0.zip"
 
 
-name="vStream 007 06-07-16"
+name="vStream 008 08-01-26"
 version="6.00"
-url="https://www.dropbox.com/scl/fi/7uknrghr6j9a2fmdcipdh/vstream-007.zip?rlkey=3zi56stvxx03vrc0mwsnlj6iv&st=a264fshu&dl=1"
+url="https://www.dropbox.com/scl/fi/bz7y0dj89qhep38s4ud6d/vstream-008.zip?rlkey=huwdxgw9t9a0v90k830796vof&st=51t05vil&dl=1"
 minor="http://"
 gui="http://"
 kodi="21"
@@ -15,7 +15,7 @@ fanart="https://raw.githubusercontent.com/aeros96/repository.smart/master/aeros/
 preview="http://"
 adult="No"
 info="http://"
-description="vStream 007 Fentastic 06-07/16"
+description="vStream 008 Fentastic 08-01-26"
 
 
 
